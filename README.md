@@ -27,8 +27,8 @@ available at http://www.ece.rice.edu/~tag7/Tom_Goldstein/Split_Bregman.html
 2) The TFOCS package 
 available at http://cvxr.com
 
-Note that users must include "\MixAMP_Framework\solvers\TFOCS-1.3.1" in the MATLAB
-search path. 
+	-Note that users must include "\MixAMP_Framework\solvers\TFOCS-1.3.1" in the MATLAB
+	search path. 
 ===============================================================================
 
 Player Information:
