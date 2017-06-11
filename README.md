@@ -22,13 +22,14 @@ Description:
 This demonstration require two external numerical solvers
 
 1) splitBregmanROF.c (MEX version) by Tom Goldstein
-available at http://www.ece.rice.edu/~tag7/Tom_Goldstein/Split_Bregman.html 
+	-available at http://www.ece.rice.edu/~tag7/Tom_Goldstein/Split_Bregman.html 
 
 2) The TFOCS package 
-available at http://cvxr.com
+	-available at http://cvxr.com
 
 	-Note that users must include "\MixAMP_Framework\solvers\TFOCS-1.3.1" in the MATLAB
 	search path. 
+	
 ===============================================================================
 
 Player Information:
